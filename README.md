@@ -1,7 +1,6 @@
 ### WELCOME TO MY PAGE 👋👋👋
 My name is Kendy Huynh (Huỳnh Như Ý). <br>
 ## 📫 How to reach me: 
-[![Facebook](https://i.imgur.com/ImyUrYa.png) Facebook]([https://www.linkedin.com/in/vietnguyen-tum/](https://www.facebook.com/huynhnhuy0116))
  [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/KendyHuynh/)
 
 
