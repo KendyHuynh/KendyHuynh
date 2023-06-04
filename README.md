@@ -6,7 +6,7 @@ My name is Y Huynh. <br>
 
 
 
-![Kendy's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=uvipen&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+![Kendy's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KendyHuynh&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 
 
